@@ -1,2 +1,7 @@
-# Software-Architecture_FT_3
-Files for course Software Architecture
+# Software-Architecture Assignment for team FT_3
+
+### Team members:
+* Felix Barten
+* Joel Bartholomew
+* Bart de Man
+
