@@ -11,6 +11,21 @@ Log book : 02/09/2015
 
 - Q: Should the project requirements be realistic?
 
+Log book : 03/09/2015
+======================
+
+- Got feedback on current work
+
+- Needs to be more focused and specific
+
+- Everything depends on the stakeholders
+
+- Stakeholders are hard
+
+- Concerns & Interests can be seen as the same
+
+- 
+
 
 
 
