@@ -62,7 +62,7 @@ Customers must be able to instruct the robot to remind them about an appointment
 
 * Should the requirements be "realistic"? In the exercise it's listed the robot should be socially engaging for people who are lonely. This can be interpreted a number of ways but for example conversations with said robot would not be a very realistic proposition because the technology is not there yet. So should all the requirements be "theoretically possible" or is it open for any interpretation as this case will not be built. 
 
-# Date: 3 September 2015 Time: 9:15 - 
+# Date: 3 September 2015 Time: 9:15 - 16:30
 
 
 ## Discussion with Rene about our stakeholders from 2 september
@@ -75,3 +75,5 @@ We asked Rene about our main question from 2 september. All functionalities shou
 - Our functionalities should be focussed more on the robot possibilities and less "smartphone" features. 
 
 
+
+# Date: 4 September 2015 Time: 15:30 -
