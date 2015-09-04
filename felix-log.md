@@ -61,3 +61,17 @@ Customers must be able to instruct the robot to remind them about an appointment
 ## Questions that came up during our sessions
 
 * Should the requirements be "realistic"? In the exercise it's listed the robot should be socially engaging for people who are lonely. This can be interpreted a number of ways but for example conversations with said robot would not be a very realistic proposition because the technology is not there yet. So should all the requirements be "theoretically possible" or is it open for any interpretation as this case will not be built. 
+
+# Date: 3 September 2015 Time: 9:15 - 
+
+
+## Discussion with Rene about our stakeholders from 2 september
+
+We asked Rene about our main question from 2 september. All functionalities should be tailored for the desired group of end users. 
+
+- Our stakeholders are numerous but some stakeholders were not listed which should have been included in our list of stakeholders
+- We decided to make our end user more specific: Our end users should be people who are able to take care of themselves but have limitations. Such as not very mobile etc..
+- Our proposed functionalities were basic and not tailored towards the target audience and should be revised 
+- Our functionalities should be focussed more on the robot possibilities and less "smartphone" features. 
+
+
