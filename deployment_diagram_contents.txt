@@ -1,0 +1,13 @@
+user interface
+web service
+storage
+database
+https
+2-phase-authorization
+OAuth
+QC-Robot
+
+actors:
+-Doctor/ Nurse
+-End-user
+-QC-control-employee
