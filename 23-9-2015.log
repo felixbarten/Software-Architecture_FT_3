@@ -1,0 +1,24 @@
+
+Make it easy to use the code
+
+"Page 3 Stakeholders:" There's a lot fluff in the document (Things are duplicated and mentioned multiple times for the same stakeholders.
+
+Be more specific about interacting with the robot.
+
+Why replacement of nurse (Like to safe money)? Reason about the actual problems and not solutions.
+
+The purpose is discussion.
+
+There should be a rational for every decision taken (Reasoning).
+
+The *context question* is okay don't worry too much.
+
+The logical view is too technical and abstract. It should mean/ say something for the intended audience. (Logical view = end-user/less-technical stakeholders)
+
+Use a usecase to verify the work (4+1 implementation).
+
+Processing is unclear. Fault tolerance (What is it and how should you do?) One component probably can't do.
+
+It is timeboxed. Document the discussion. Don't dwell too much on one topic. It does not need to be complete.
+
+The point about this week is the ability to reflect on it.
